@@ -1,0 +1,10 @@
+{
+  "Tables": [
+    {
+      "TableTitle": "Login",
+      "TableName": "Des2_Users",
+      "CreateQuery": "CREATE TABLE {schema}.Des2_Users (Id INT PRIMARY KEY IDENTITY, UserId NVARCHAR(MAX), Email NVARCHAR(MAX), FullName NVARCHAR(MAX), PasswordSalt VARBINARY(MAX), PasswordHash VARBINARY(MAX), AuthenticatorType NVARCHAR(50),Role INT, CreatedDate DATETIME, UpdatedDate DATETIME, DeletedDate DATETIME)",
+      "IsActive": false
+    }
+  ]
+}

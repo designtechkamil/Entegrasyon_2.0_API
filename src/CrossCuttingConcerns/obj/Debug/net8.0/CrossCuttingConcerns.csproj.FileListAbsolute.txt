@@ -1,0 +1,13 @@
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\bin\Debug\net8.0\CrossCuttingConcerns.deps.json
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\bin\Debug\net8.0\CrossCuttingConcerns.dll
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\bin\Debug\net8.0\CrossCuttingConcerns.pdb
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\CrossCuttingConcerns.sourcelink.json
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\CrossCuttingConcerns.dll
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\refint\CrossCuttingConcerns.dll
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\CrossCuttingConcerns.pdb
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\ref\CrossCuttingConcerns.dll
+C:\Users\tronu\source\repos\DesigntechProjeler\Entegrasyon_2.0_API\src\CrossCuttingConcerns\obj\Debug\net8.0\CrossCuttingConcerns.csproj.AssemblyReference.cache

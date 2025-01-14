@@ -1,0 +1,1 @@
+2025-01-07 11:50:59.258 +03:00 [Information] {"FullName":"","MethodName":"\u003CHandle\u003Eg__Handler|0","User":"?","Parameters":[{"Name":"","Value":{"PageRequest":{"PageIndex":0,"PageSize":10}},"Type":"GetListWTPartQuery"}]}

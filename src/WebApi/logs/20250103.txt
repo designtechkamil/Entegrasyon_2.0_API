@@ -1,0 +1,3 @@
+2025-01-03 09:19:01.673 +03:00 [Information] {"FullName":"","MethodName":"\u003CHandle\u003Eg__Handler|0","User":"?","Parameters":[{"Name":"","Value":{"PageRequest":{"PageIndex":0,"PageSize":10}},"Type":"GetListWTPartQuery"}]}
+2025-01-03 09:20:09.549 +03:00 [Information] {"FullName":"","MethodName":"\u003CHandle\u003Eg__Handler|0","User":"?","Parameters":[{"Name":"","Value":{"PageRequest":{"PageIndex":0,"PageSize":10}},"Type":"GetListWTPartQuery"}]}
+2025-01-03 10:35:52.631 +03:00 [Information] {"FullName":"","MethodName":"\u003CHandle\u003Eg__Handler|0","User":"?","Parameters":[{"Name":"","Value":{"PageRequest":{"PageIndex":0,"PageSize":10}},"Type":"GetListWTPartQuery"}]}
